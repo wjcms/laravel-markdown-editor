@@ -1,0 +1,20 @@
+{
+    "name": "25344/laravel-markdown-editor",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "13149563301",
+            "email": "1059114241@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "wjcms\\laravelmd\\": "src"
+        }
+    },
+}
